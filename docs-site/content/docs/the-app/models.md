@@ -298,7 +298,7 @@ $ cargo loco g migration AddNameAndAgeToUsers name:string age:int
 * Example: `RemoveNameAndAgeFromUsers` (same note exists as in _add columns_)
 
 ```
-$ cargo logo g migration RemoveNameAndAgeFromUsers name:string age:int
+$ cargo loco g migration RemoveNameAndAgeFromUsers name:string age:int
 ```
 
 ### Add references
